@@ -1,0 +1,85 @@
+2022-07-17 22:50:33,712 - rootLogger - INFO - Excel file initialized successfully.
+2022-07-17 22:50:33,718 - rootLogger - INFO - Config.properties file Loaded successfully.
+2022-07-17 22:50:36,740 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:50:38,440 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:50:39,540 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:50:39,540 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:50:40,274 - rootLogger - INFO - TestFM_TC1 is PASSED.
+2022-07-17 22:50:41,829 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:50:43,590 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:50:44,693 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:50:44,693 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:50:44,775 - rootLogger - INFO - Successfully waited for Gateway field dropdown to be present on page.
+2022-07-17 22:50:46,080 - rootLogger - INFO - TestFM_TC10 is FAILED.
+2022-07-17 22:50:48,807 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:50:50,280 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:50:51,380 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:50:51,381 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:50:51,475 - rootLogger - INFO - Successfully waited for Gateway field dropdown to be present on page.
+2022-07-17 22:50:52,827 - rootLogger - INFO - TestFM_TC11 is FAILED.
+2022-07-17 22:50:55,690 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:50:57,295 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:50:58,401 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:50:58,401 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:50:58,516 - rootLogger - INFO - Successfully waited for Gateway field text to be present on page.
+2022-07-17 22:50:59,602 - rootLogger - INFO - Successfully waited for Amount field text to be present on page.
+2022-07-17 22:51:00,704 - rootLogger - INFO - Successfully waited for Mobile field text to be present on page.
+2022-07-17 22:51:01,792 - rootLogger - INFO - Successfully waited for Lender field text to be present on page.
+2022-07-17 22:51:02,551 - rootLogger - INFO - TestFM_TC2 is PASSED.
+2022-07-17 22:51:04,299 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:06,065 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:07,174 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:07,174 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:07,251 - rootLogger - INFO - Successfully waited for Gateway field dropdown to be present on page.
+2022-07-17 22:51:08,400 - rootLogger - INFO - Successfully clicked on Gateway field dropdown element.
+2022-07-17 22:51:09,508 - rootLogger - INFO - Successfully waited for TPSL option to be present on page.
+2022-07-17 22:51:09,564 - rootLogger - INFO - Successfully waited for Cashfree option to be present on page.
+2022-07-17 22:51:09,644 - rootLogger - INFO - Successfully waited for Razorpay option to be present on page.
+2022-07-17 22:51:09,730 - rootLogger - INFO - Successfully waited for Amazon option to be present on page.
+2022-07-17 22:51:09,829 - rootLogger - INFO - Successfully waited for World Line option to be present on page.
+2022-07-17 22:51:09,907 - rootLogger - INFO - Successfully waited for Benow option to be present on page.
+2022-07-17 22:51:09,981 - rootLogger - INFO - Successfully waited for Fiserv option to be present on page.
+2022-07-17 22:51:10,734 - rootLogger - INFO - TestFM_TC3 is PASSED.
+2022-07-17 22:51:12,474 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:14,027 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:15,155 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:15,155 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:15,270 - rootLogger - INFO - Successfully waited for Amount field text to be present on page.
+2022-07-17 22:51:16,577 - rootLogger - INFO - TestFM_TC4 is FAILED.
+2022-07-17 22:51:19,260 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:20,883 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:21,999 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:21,999 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:22,093 - rootLogger - INFO - Successfully waited for Lender field dropdown to be present on page.
+2022-07-17 22:51:23,209 - rootLogger - INFO - Successfully clicked on Lender field dropdown element.
+2022-07-17 22:51:24,285 - rootLogger - INFO - Successfully waited for Federal lender option to be present on page.
+2022-07-17 22:51:25,554 - rootLogger - INFO - TestFM_TC5 is PASSED.
+2022-07-17 22:51:27,357 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:29,500 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:30,597 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:30,597 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:30,702 - rootLogger - INFO - Successfully waited for Gateway field dropdown to be present on page.
+2022-07-17 22:51:31,952 - rootLogger - INFO - TestFM_TC6 is FAILED.
+2022-07-17 22:51:34,563 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:36,145 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:37,241 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:37,241 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:37,325 - rootLogger - INFO - Successfully waited for Amount text field to be present on page.
+2022-07-17 22:51:37,536 - rootLogger - INFO - Successfully clicked on Amount text field element.
+2022-07-17 22:51:37,632 - rootLogger - INFO - Successfully cleared text from Amount text field textbox
+2022-07-17 22:51:38,778 - rootLogger - INFO - Successfully entered Amount text field in null textbox.
+2022-07-17 22:51:40,514 - rootLogger - INFO - TestFM_TC7 is PASSED.
+2022-07-17 22:51:42,237 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:44,560 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:45,682 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:45,682 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:45,760 - rootLogger - INFO - Successfully waited for Mobile text field to be present on page.
+2022-07-17 22:51:45,982 - rootLogger - INFO - Successfully clicked on Mobile text field element.
+2022-07-17 22:51:47,059 - rootLogger - INFO - Successfully entered Mobile text field in null textbox.
+2022-07-17 22:51:48,832 - rootLogger - INFO - TestFM_TC8 is PASSED.
+2022-07-17 22:51:50,463 - rootLogger - INFO - Chrome Driver instance loaded successfully.
+2022-07-17 22:51:52,084 - rootLogger - INFO - Successfully waited for Field description table text to be present on page.
+2022-07-17 22:51:53,184 - rootLogger - INFO - Successfully waited for Field Name table text to be present on page.
+2022-07-17 22:51:53,184 - rootLogger - INFO - Table fields are shown on the page
+2022-07-17 22:51:53,253 - rootLogger - INFO - Successfully waited for Gateway field dropdown to be present on page.
+2022-07-17 22:51:54,537 - rootLogger - INFO - TestFM_TC9 is FAILED.

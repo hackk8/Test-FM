@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestFM" parallel="methods" thread-count="1">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener
+			class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<test name="testfm">
+		<groups>
+			<run>
+				<include name="testfm" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Test_FM.Test_FM.TestFM_TC" />
+		</classes>
+	</test>
+</suite>
